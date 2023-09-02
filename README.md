@@ -17,14 +17,14 @@
 - Fork & Star this rep𝗼
 
 #commands
-apt update && apt upgrade
-pkg install git
-pkg install python
-cd TeamNeiman-Chatgpt
-pip install -r requirements.txt
-python chat-gpt.py
-"enter openai api and run agai"
-python chat-gpt.py
+`apt update && apt upgrade`
+`pkg install git`
+`pkg install python`
+`cd TeamNeiman-Chatgpt`
+`pip install -r requirements.txt`
+`python chat-gpt.py`
+`"enter openai api and run agai"`
+`python chat-gpt.py`
 
 ------
 ## Variables
